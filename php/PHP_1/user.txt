@@ -1,0 +1,4 @@
+INSERT INTO users
+    SET login_id = 'yomi43',
+        password = '$2y$10$BMVPTXwbwV9Ga4fCpqD/J.DygKuCCdt5a0KJzpGuoVBXeBTggqHGG',
+        user_name = '‚æ‚Ý‚æ‚Ý';
